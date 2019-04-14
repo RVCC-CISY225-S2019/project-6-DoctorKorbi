@@ -29,8 +29,13 @@ You are going to have to download and add the files from your Project 5 into thi
 
 Mobile Phone Screenshots:
 ![Mobile SG1](https://github.com/RVCC-CISY225-S2019/project-6-DoctorKorbi/blob/master/readme-src/Screenshot_20190410-162228_Chrome.jpg)
+![Mobile SG2](https://github.com/RVCC-CISY225-S2019/project-6-DoctorKorbi/blob/master/readme-src/Screenshot_20190410-162237_Chrome.jpg)
+
+
 
 
 
 Tablet ScreenShots:
 ![Tablet SG1](https://github.com/RVCC-CISY225-S2019/project-6-DoctorKorbi/blob/master/readme-src/Screenshot_20190414-143842.png)
+![Tablet SG2](https://github.com/RVCC-CISY225-S2019/project-6-DoctorKorbi/blob/master/readme-src/Screenshot_20190414-143853.png)
+![Tablet SG3](https://github.com/RVCC-CISY225-S2019/project-6-DoctorKorbi/blob/master/readme-src/Screenshot_20190414-143928.png)
