@@ -28,8 +28,9 @@ You are going to have to download and add the files from your Project 5 into thi
 **You Must Have a Perfect Project 5 Repo. Make all changes to P5 before starting this project. Your grade depends on this. If you need help, ask me for help.**
 
 Mobile Phone Screenshots:
-![GH Pages](https://github.com/doctorkorbi/nav-demo/blob/master/readme-src/Screenshot_20190410-162228_Chrome.jpg)
+![GH Pages](https://github.com/DoctorKorbi/nav-demo/blob/master/readme-src/Screenshot_20190410-162228_Chrome.jpg)
 
 
 
 Tablet ScreenShots:
+![GH Pages](https://github.com/DoctorKorbi/nav-demo/blob/master/readme-src/Screenshot_20190414-143842.png)
